@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>HTML &CSS</title>
+    </head>
+    <body>
+        <h1 style="color:red;">WELCOME TO MINA</h1>
+        <P style="color:blue;">The Mina Institution Will Provide Indivisual Attension, World class Quality Education And Take Care Of Character Building With A High Sence of Disipline And Social Relavance In A Serence and Peacefull Environment.</P>
+
+        <P>Our Vision is to become a global leader in Engineering and Management Education. We impart futuristic technical education and instill high patterns of discipline through our dedicated staff, who shall provide standard education, making our sudents technologically superior and ethically strong, who in turn</P>
+
+        <P>At MIETW we believe that engineering is a creative and collaborative endeavour in which solutions arise from a rich diversity of perspective, discussion, and inquiry. We provide a welcoming environment for a diverse student population and international students. The Engineering Co-op & Career Services Office staff delivers the Co-op program to thousands of students each year. They work with students during the whole process, assisting them to navigate their way through job applications, interviews and offers</P>
+
+    </body>
+</html>
